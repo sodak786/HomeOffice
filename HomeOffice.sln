@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokeMon", "domaci\PokeMon.csproj", "{8F12614B-A018-4217-A188-CB4907441925}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "idk", "idk\idk.csproj", "{DC258E8C-CE81-4D6D-8D70-587AE5BDC8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F12614B-A018-4217-A188-CB4907441925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F12614B-A018-4217-A188-CB4907441925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F12614B-A018-4217-A188-CB4907441925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F12614B-A018-4217-A188-CB4907441925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC258E8C-CE81-4D6D-8D70-587AE5BDC8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC258E8C-CE81-4D6D-8D70-587AE5BDC8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC258E8C-CE81-4D6D-8D70-587AE5BDC8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC258E8C-CE81-4D6D-8D70-587AE5BDC8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803FD82F-7F0D-40AD-A41F-BD751DE9E2B6}
+	EndGlobalSection
+EndGlobal
