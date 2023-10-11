@@ -1,11 +1,11 @@
-﻿using System.Diagnostics;
+﻿
 namespace PokeMon
 {
     class Program
     {
         static void Main(string[] args)
         { 
-            Pokemon pokemon1 = new Pokemon("fire", "second");
+            var pokemon1 = new Pokemon("earth", "second");
             Console.WriteLine(pokemon1.ChoosePokemon()); 
         }
     }

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace PokeMon
 {
     internal class Pokemon
@@ -12,10 +7,11 @@ namespace PokeMon
         public string evolution;
         public string chosenOne;
 
-        public Pokemon(string aElement, string aEvolution) 
+        public Pokemon(string element, string evolution) 
         {
-            element = aElement;
-            evolution = aEvolution;
+
+            this.element = element;
+            this.evolution = evolution;
         }
 
         public string ChoosePokemon()
